@@ -31,11 +31,14 @@ Distractions and focus, and they include:
 
 * Focus Bear aligns with my values because I care more about mental health, balance, and people's feelings than productivity alone.  
 * I value having structure, but also leaving space for flexibility, creativity, and improvisation.  
-* I strongly relate to the idea of focus bear’s philosophy of gentle guidance instead of punishment or pressure.  
+* I strongly relate to the idea of Focus Bear’s philosophy of gentle guidance instead of punishment or pressure.  
 * I am interested in wellbeing and mental health, and I have seen how the right support can help people function better at work and study.  
-* From my own experience, this became very clear when my dad passed away during the first month of starting my Master’s degree.  
-* My uni supported me well during that time, which helped me get back on track with my studies.  
-* As someone with PTSD, I strongly believe that without university and psychologist support, I could’ve dropped out of unimelb or failed.
+* From my own experience, this became very clear during a difficult period when I started my Master’s degree.  
+* My uni supported me well during that time, which helped me get back on track with my studies.
+* One of the supports I received was being recommended digital wellbeing apps, which helped me manage focus during that time. After that, I became more interested in exploring other tools that support focus and structure, and seeing people use these tools and experience real positive impact in their daily lives became one of my values 
+* After seeing the positive impact, I started recommending similar tools to mates and colleagues - some of them found them so helpful
+* Because Focus Bear's mission is to help neurodivergent people navigate their lives, this meaning and value strongly align with me personally
+* Having personally benefited from similar support, I'm interested in contributing to this cycle and helping deliver positive impact for people who use Focus Bear 
 
 ***Do you personally relate to any of the challenges that Focus Bear aims to solve?***
 
