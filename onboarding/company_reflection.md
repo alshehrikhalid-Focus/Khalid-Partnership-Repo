@@ -44,5 +44,5 @@ Distractions and focus, and they include:
 
 * As someone diagnosed with PTSD, I have personally struggled with focus, procrastination, doomscrolling, and sticking to routines  
 * I have also seen many friends and classmates struggle with similar issues, especially during uni  
-* Before my diagnosis, I did not fully understand how much PTSD was affecting my studies, which shows that many people struggle even without knowing the reason.  
-* I relate to the need for external structure rather than relying on motivation alone, and I already use tools like TickTick and Brain.fm to support my focus and routines— Now I added focus bear to my kit
+* Before my diagnosis, I did not fully understand how much PTSD was affecting focus and my studies, which shows that many people struggle even without knowing the reason.  
+* I relate to the need for external structure rather than relying on motivation alone, and I already use tools like TickTick and Brain.fm to support my focus and routines — Now I've added focus bear to my kit to further support structure and focus
