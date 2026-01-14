@@ -39,3 +39,16 @@ I moved at least one task through the Kanban board from not started to in progre
 **Identify one way you can improve task tracking in your role.**
 
 One way I can improve task tracking is by updating the Kanban board immediately whenever a task’s status changes so progress is always clear.
+
+
+## Kanban Board Evidence
+
+I created a Kanban board for this repository using GitHub Projects. A screenshot of the board has been attached to show the columns and tasks.
+
+### Task moved through the Kanban workflow
+- Task name: Agile Workflows & Kanban
+- Initial column: Todo
+- Moved to: In Progress
+- Final column: Ready to Review
+
+This task was moved across the columns to reflect its progress and correct use of the Kanban workflow.
