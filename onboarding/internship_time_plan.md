@@ -92,4 +92,7 @@
 * **Friday:** 20 February | 9:30 AM – 5:00 PM (7.5 hours)  
    **Total:** 15 hours
 
+Focus Bear evidence:
+Please see focus_bear_session_history.png, which shows my Focus Bear session history with visible dates and times, confirming that I have started logging my internship hours.
+
   
