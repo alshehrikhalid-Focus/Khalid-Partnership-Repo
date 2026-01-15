@@ -4,11 +4,11 @@
 
 ## **Context**
 
-I tested the Focus Bear app from a **first-time user onboarding perspective**, focusing on early setup, first interactions, and initial usage without prior guidance.
+I tested the Focus Bear app from a first-time user onboarding perspective, focusing on early setup, first interactions, and initial usage without prior guidance.
 
 Although my account was created earlier, I approached this task as if I had just discovered the app for the first time and was trying to understand how it works independently.
 
-The purpose of these notes is to document anything that felt **confusing, frustrating, or unclear** during first-time use, supported by screenshots.
+The purpose of these notes is to document anything that felt confusing, frustrating, or unclear during first-time use, supported by screenshots.
 
 ---
 
